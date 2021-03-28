@@ -1,0 +1,33 @@
+body{
+    background-color:rgb(147, 204, 204);
+}
+h1{
+    text-align: center;
+}
+.level{
+    text-align: center;
+   
+    
+}
+button{
+    color: rgb(82, 25, 5);
+    background-color: rgb(230, 196, 196);
+    border: 3px solid rgb(247, 1, 51);
+   border-radius: 20%;
+}
+.board {
+    margin-top: 2px;
+    background-color: rgb(38, 58, 243);
+    margin: auto;
+    text-align: center;
+    padding: 2px
+}
+.cell{
+    font-size: large;
+    background: rgb(221, 107, 107);
+    width: 50px;
+    height: 50px;
+    border-radius: 2px;
+    border-color: rgb(23, 207, 17);
+}
+
